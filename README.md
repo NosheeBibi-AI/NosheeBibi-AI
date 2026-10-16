@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Noshee Bibi 👋
 
-<!--
-**NosheeBibi-AI/NosheeBibi-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 BS Artificial Intelligence Student (Semester 3)
 
-Here are some ideas to get you started:
+I am an AI student who is currently learning Python programming and exploring the basics of Data Science. I use this GitHub account to track my learning journey and practice coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Currently Learning
+* **Programming:** Python Fundamentals & Problem Solving
+* **Next Steps:** Data Analytics and Machine Learning
+
+### 📜 Certifications
+* **Python Course Completion** - Kaggle (Introduction)
+* 
